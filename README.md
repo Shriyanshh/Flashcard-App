@@ -7,7 +7,9 @@ This is an application in which Flashcards are used to better help you remember 
 
 ### App Walk-though
 
-https://i.imgur.com/3e2Ua0b.gif
+`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+
+<img src="https://i.imgur.com/3e2Ua0b.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio

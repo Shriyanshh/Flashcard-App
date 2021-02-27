@@ -7,7 +7,7 @@ This is an application in which Flashcards are used to better help you remember 
 
 ### App Walk-though
 
-<img src="https://imgur.com/3e2Ua0b" width=200><br>
+https://i.imgur.com/3e2Ua0b.gif
 
 ## Required
 - [x] Create New Project in Android Studio

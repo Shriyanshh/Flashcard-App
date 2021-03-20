@@ -3,7 +3,7 @@
 ## Lab 3
 
 ### App Description
-`TODO://` App that allows you to see a flashcard-like question and answer as well as save and edit multiple databases.
+App that allows you to see a flashcard-like question and answer as well as save and edit multiple databases.
 
 ### App Walk-though
 

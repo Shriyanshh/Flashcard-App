@@ -3,7 +3,7 @@
 ## Lab 4
 
 ### App Description
-Build a fully functional, user-friendly application in Android Studio that stores user’s data and creates custom animations and styles### App Walk-though
+Build a fully functional, user-friendly application in Android Studio that stores user’s data and creates custom animations and styles.
 
 <img src="https://i.imgur.com/pamamKZ.gif" width=200><br>
 

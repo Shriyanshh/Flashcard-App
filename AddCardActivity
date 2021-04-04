@@ -20,6 +20,7 @@ public class AddCardActivity extends AppCompatActivity {
             public void onClick(View v) {
                 Intent intent = new Intent(AddCardActivity.this, MainActivity.class);
                 AddCardActivity.this.startActivity(intent);
+                overridePendingTransition(R.anim.fromright, R.anim.toleft);
                 finish();
             }
         });
